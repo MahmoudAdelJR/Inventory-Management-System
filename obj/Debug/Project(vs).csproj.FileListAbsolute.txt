@@ -1,0 +1,473 @@
+D:\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+D:\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+D:\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+D:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+D:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+D:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+D:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+D:\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+D:\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
+D:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+D:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+D:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+D:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.SuggestedBindingRedirects.cache
+D:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+D:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.update.resources
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.create.resources
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Categories.resources
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Customers.resources
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Buffers.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Memory.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.dll
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.pdb
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Buffers.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Memory.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.xml
+F:\Project\Project(vs) (1)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.make_autoGenerate.resources
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\IdentityModel.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Buffers.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Memory.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.dll
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\IdentityModel.pdb
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\IdentityModel.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Buffers.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Memory.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.xml
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Categories.resources
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Customers.resources
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.create.resources
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.make_autoGenerate.resources
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+C:\Users\Hager\Downloads\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
+G:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+G:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.SuggestedBindingRedirects.cache
+G:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Categories.resources
+G:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Customers.resources
+G:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+G:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+G:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+G:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+G:\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+G:\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
+G:\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+G:\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+G:\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+G:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+G:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+G:\Project(vs)\Project(vs)\bin\Debug\IdentityModel.dll
+G:\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Project(vs)\Project(vs)\bin\Debug\System.Buffers.dll
+G:\Project(vs)\Project(vs)\bin\Debug\System.Memory.dll
+G:\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.dll
+G:\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.dll
+G:\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.dll
+G:\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.dll
+G:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+G:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+G:\Project(vs)\Project(vs)\bin\Debug\IdentityModel.pdb
+G:\Project(vs)\Project(vs)\bin\Debug\IdentityModel.xml
+G:\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Project(vs)\Project(vs)\bin\Debug\System.Buffers.xml
+G:\Project(vs)\Project(vs)\bin\Debug\System.Memory.xml
+G:\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.xml
+G:\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.xml
+G:\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.xml
+G:\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.xml
+G:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+G:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Branches.resources
+G:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.update1.resources
+G:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Products.resources
+G:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.update.resources
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\IdentityModel.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Buffers.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Memory.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.dll
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\IdentityModel.pdb
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\IdentityModel.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Buffers.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Memory.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.xml
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Branches.resources
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Categories.resources
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Customers.resources
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Products.resources
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
+G:\ITI fullstack.Net\visual C#\pro\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.update.resources
+I:\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+I:\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+I:\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+I:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+I:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+I:\Project(vs)\Project(vs)\bin\Debug\IdentityModel.dll
+I:\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Project(vs)\Project(vs)\bin\Debug\System.Buffers.dll
+I:\Project(vs)\Project(vs)\bin\Debug\System.Memory.dll
+I:\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.dll
+I:\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.dll
+I:\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.dll
+I:\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.dll
+I:\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.dll
+I:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+I:\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+I:\Project(vs)\Project(vs)\bin\Debug\IdentityModel.pdb
+I:\Project(vs)\Project(vs)\bin\Debug\IdentityModel.xml
+I:\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+I:\Project(vs)\Project(vs)\bin\Debug\System.Buffers.xml
+I:\Project(vs)\Project(vs)\bin\Debug\System.Memory.xml
+I:\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.xml
+I:\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.xml
+I:\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.xml
+I:\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.xml
+I:\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.xml
+I:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+I:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.SuggestedBindingRedirects.cache
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Bills.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Branches.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Categories.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Customers.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Products.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+I:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+I:\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+I:\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+I:\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.final.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Welcome.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Suppliers.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Reports.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.SuppliersBill.resources
+I:\Project(vs)\Project(vs)\obj\Debug\Project_vs_.CustomersBill.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\IdentityModel.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Buffers.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Memory.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.dll
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\IdentityModel.pdb
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\IdentityModel.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Buffers.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Memory.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.xml
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Bills.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Branches.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Categories.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Customers.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.CustomersBill.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Products.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Reports.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Suppliers.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.SuppliersBill.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Welcome.resources
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
+D:\ppppppppppppp\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.update.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Buffers.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Memory.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.dll
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.pdb
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Buffers.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Memory.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.xml
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Bills.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Branches.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Categories.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Customers.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.CustomersBill.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.update.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Products.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Reports.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Suppliers.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.SuppliersBill.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Welcome.resources
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+F:\Project\New folder (2)\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Buffers.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Memory.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.dll
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.pdb
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Buffers.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Memory.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.xml
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Bills.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Branches.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Categories.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Customers.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.CustomersBill.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.update.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Products.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Reports.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Suppliers.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.SuppliersBill.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Welcome.resources
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
+C:\Users\USB\Desktop\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.productInCategory.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Buffers.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Memory.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.dll
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.pdb
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Buffers.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Memory.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.xml
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Bills.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Branches.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Categories.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Customers.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.CustomersBill.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Product_In_Branch.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Products.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Reports.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Suppliers.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.SuppliersBill.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Welcome.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.product_In_Category.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Products_less_than_Num.resources
+C:\Users\Hager\Desktop\withfatma\finalyProject(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.update.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe.config
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).exe
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\Project(vs).pdb
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Buffers.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Memory.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.dll
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\EntityFramework.SqlServer.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.pdb
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\IdentityModel.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Buffers.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Memory.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Numerics.Vectors.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Encodings.Web.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Text.Json.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\bin\Debug\System.ValueTuple.xml
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.AssemblyReference.cache
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Bills.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Branches.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Categories.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Customers.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.CustomersBill.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Main.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Migrations.update.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Product_In_Branch.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.product_In_Category.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Products_less_than_Num.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Products.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Properties.Resources.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Reports.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Suppliers.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.SuppliersBill.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project_vs_.Welcome.resources
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.GenerateResource.cache
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CoreCompileInputs.cache
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).csproj.CopyComplete
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).exe
+F:\المشرووع\Project(vs)\Project(vs)\Project(vs)\obj\Debug\Project(vs).pdb
